@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java, Spring, React
-- 
+
 - 📫 How to reach me: 
 
-Github: https://github.com/nicolasarruda
-Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
+-Github: https://github.com/nicolasarruda
+-Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
 <!--
 **nicolasarruda/nicolasarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
