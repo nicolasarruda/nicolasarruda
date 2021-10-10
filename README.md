@@ -7,6 +7,9 @@
 - Github: https://github.com/nicolasarruda
 - Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
 - Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br
+
+![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasarruda&show_icons=true&theme=radical)
+
 <!--
 **nicolasarruda/nicolasarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
