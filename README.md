@@ -8,6 +8,9 @@
 - Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
 - Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br
 
+- email : nlarruda@hotmail.com
+- telephone: +55(11)95974-5673
+
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasarruda&show_icons=true&theme=vue) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarruda&layout=compact&hide=jupyter-notebook,hack&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
