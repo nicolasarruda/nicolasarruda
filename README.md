@@ -37,7 +37,7 @@ domestic violence. The project's repository is "AppGm".
 
 __Project dscatalog:__
 
-Link:
+Link: https://github.com/nicolasarruda/dscatalog-nicolas
 
 __Project sds4:__
 
