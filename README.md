@@ -34,7 +34,7 @@ domestic violence. The project's repository is "AppGm".
 
 ## Projects
 
-__Project sds4:__ 
+_Project sds4:_ 
 Link: https://github.com/nicolasarruda/project-sds4
 
 
