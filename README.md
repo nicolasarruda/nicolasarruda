@@ -11,9 +11,11 @@
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasarruda&show_icons=true&theme=vue) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarruda&layout=compact&hide=jupyter-notebook,hack&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
-![java](imagens/java.png)  ![spring](imagens/spring.png)
+![java](imagens/java.png)  ![spring](imagens/spring.png) ![react](imagens/react.png)
 
-![sqlserver](imagens/sqlserver.png)
+![sqlserver](imagens/sqlserver.png) ![mysql](imagens/mysql.png) ![postgresql](imagens/postgresql.png)
+
+![postman](imagens/postman.png) ![git](imagens/git.png) ![github](imagens/github.png)
 
 
 
