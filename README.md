@@ -19,9 +19,11 @@ and do diagram class as well. However, the important is I learn that with our co
 best all of society, because "Marias" is a app to help the law about the women's insurance against 
 domestic violence. The project's repository is "AppGm".
 
-## Technologies
+## Skills
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasarruda&show_icons=true&theme=vue) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarruda&layout=compact&hide=jupyter-notebook,hack&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+
+## Technologies
 
 ![java](imagens/java.png)  ![spring](imagens/spring.png) ![react](imagens/react.png)
 
