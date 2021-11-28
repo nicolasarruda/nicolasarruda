@@ -49,7 +49,7 @@ domestic violence. The project's repository is "AppGm".
 - Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br
 
 - email : nlarruda@hotmail.com
-- telephone: +55(11)95974-5673
+- telephone: +55 (11) 95974-5673
 
 
 <!--
