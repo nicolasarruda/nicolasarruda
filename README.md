@@ -1,6 +1,23 @@
 ### Nícolas Luchini de Arruda 
 
-- 🌱 I’m currently learning Java, Spring, React
+
+## Resume:
+
+I'm currently working at company Fatec Jr as java back-end programmer developer. I like to learn
+new subjects as new tools: spring, react, logic and other languages, lambda, structure data, 
+relational and non-relational database, big data design paterns as well. These can be showed
+in my projects, for example, "fatec-empresa-jr-backend", "dscatalog", "project-sds4", 
+"project-sds5", "workshop-spring-boot-mondgodb". 
+
+Also, there are others subject that I learnt: 
+unit automated tests on controller, service and repository, which can be showed in "AutomatedTests" 
+and because of it, I'm deeping to learn integration tests, integration tests & web.
+
+But, there is one project in my college which does a big impact in society: Marias. In this project,
+I work at java developer in the Android Studio and documentation as well. I learn code better in java 
+and do diagram class as well. However, the important is I learn that with our codes, we can do the 
+best all of society, because "Marias" is a app to help the law about the women's insurance against 
+domestic violence. The project's repository is "AppGm".
 
 - 📫 How to reach me: 
 
