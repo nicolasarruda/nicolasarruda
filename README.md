@@ -19,15 +19,7 @@ and do diagram class as well. However, the important is I learn that with our co
 best all of society, because "Marias" is a app to help the law about the women's insurance against 
 domestic violence. The project's repository is "AppGm".
 
-- 📫 How to reach me: 
-
-- Github: https://github.com/nicolasarruda
-- Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
-- Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br
-
-- email : nlarruda@hotmail.com
-- telephone: +55(11)95974-5673
-
+## Technologies
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasarruda&show_icons=true&theme=vue) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarruda&layout=compact&hide=jupyter-notebook,hack&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,9 +30,24 @@ domestic violence. The project's repository is "AppGm".
 ![postman](imagens/postman.png) ![git](imagens/git.png) ![github](imagens/github.png)
 
 
-
-
 ## Projects:
+
+
+
+
+
+
+
+
+
+## 📫 How to reach me: 
+
+- Github: https://github.com/nicolasarruda
+- Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
+- Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br
+
+- email : nlarruda@hotmail.com
+- telephone: +55(11)95974-5673
 
 
 <!--
