@@ -3,7 +3,7 @@
 
 ## Resume
 
-I'm currently working at company Fatec Jr as java back-end programmer developer. I like to learn
+I'm currently studying at Fatec Jundiai and working at company Fatec Jr as java back-end programmer developer. I like to learn
 new subjects as new tools: spring, react, logic and other languages, lambda, structure data, 
 relational and non-relational database, big data design paterns as well. These can be showed
 in my projects, for example, "fatec-empresa-jr-backend", "dscatalog", "project-sds4", 
@@ -34,7 +34,8 @@ domestic violence. The project's repository is "AppGm".
 
 ## Projects
 
-
+_Project_ _sds4:_ 
+Link: https://github.com/nicolasarruda/project-sds4
 
 
 
