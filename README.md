@@ -1,7 +1,7 @@
 ### Nícolas Luchini de Arruda 
 
 
-## Resume:
+## Resume
 
 I'm currently working at company Fatec Jr as java back-end programmer developer. I like to learn
 new subjects as new tools: spring, react, logic and other languages, lambda, structure data, 
@@ -32,7 +32,7 @@ domestic violence. The project's repository is "AppGm".
 ![postman](imagens/postman.png) ![git](imagens/git.png) ![github](imagens/github.png)
 
 
-## Projects:
+## Projects
 
 
 
@@ -42,7 +42,7 @@ domestic violence. The project's repository is "AppGm".
 
 
 
-## 📫 How to reach me: 
+## 📫 How to reach me 
 
 - Github: https://github.com/nicolasarruda
 - Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
