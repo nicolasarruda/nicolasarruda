@@ -58,7 +58,7 @@ Link: https://github.com/nicolasarruda/AutomatedTests
 
 __Project AppGm:__
 
-Link: https://github.com/PauloHenriqueFP/AppGm
+Link: https://github.com/nicolasarruda/AppGm
 
 ## 📫 How to reach me 
 
