@@ -70,7 +70,7 @@ Link: https://github.com/nicolasarruda/AppGm
 
 - email : nlarruda@hotmail.com
 - telephone: +55 (11) 95974-5673
-=======
+
 ## Welcome to my Portfolio
 
 I have some projects in my repositories, using differents programming languages like:
