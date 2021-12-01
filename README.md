@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Nícolas Luchini de Arruda 
 
 
@@ -103,5 +102,3 @@ Syntax highlighted code block
 
 
 ### Support or Contact
-
->>>>>>> b70c47e764e2e9f20109dceb2f1082b4d035f34e
