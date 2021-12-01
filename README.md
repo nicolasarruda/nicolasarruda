@@ -1,4 +1,6 @@
-### Resume
+### Nícolas Luchini de Arruda
+
+## Resume
 
 I'm currently studying at Fatec Jundiai and working at company Fatec Jr as java back-end programmer
 developer. I like to learnnew subjects as new tools: spring, react, logic and other languages, lambda,
@@ -17,7 +19,7 @@ and do diagram class as well. However, the important is I learn that with our co
 best all of society, because "Marias" is a app to help the law about the women's insurance against 
 domestic violence. The project's repository is "AppGm".
 
-### Skills
+## Skills
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasarruda&show_icons=true&theme=vue) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarruda&layout=compact&hide=jupyter-notebook,hack&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,7 +32,7 @@ domestic violence. The project's repository is "AppGm".
 ![postman](Images/postman.png) ![git](Images/git.png) ![github](Images/github.png)
 
 
-### Projects
+## Projects
 
 __Project dscatalog:__
 
@@ -58,7 +60,7 @@ __Project AppGm:__
 
 Link: https://github.com/nicolasarruda/AppGm
 
-### 📫 How to reach me 
+## 📫 How to reach me 
 
 - Github: https://github.com/nicolasarruda
 - Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
