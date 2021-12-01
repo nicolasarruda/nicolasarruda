@@ -26,11 +26,11 @@ domestic violence. The project's repository is "AppGm".
 
 ## Technologies
 
-![java](imagens/java.png)  ![spring](imagens/spring.png) ![react](imagens/react.png)
+![java](Images/java.png)  ![spring](Images/spring.png) ![react](Images/react.png)
 
-![sqlserver](imagens/sqlserver.png) ![mysql](imagens/mysql.png) ![postgresql](imagens/postgresql.png)
+![sqlserver](Images/sqlserver.png) ![mysql](Images/mysql.png) ![postgresql](Images/postgresql.png)
 
-![postman](imagens/postman.png) ![git](imagens/git.png) ![github](imagens/github.png)
+![postman](Images/postman.png) ![git](Images/git.png) ![github](Images/github.png)
 
 
 ## Projects
