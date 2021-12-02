@@ -31,7 +31,7 @@ domestic violence. The project's repository is "AppGm".
 
 ![postman](Images/postman.png) ![git](Images/git.png) ![github](Images/github.png)
 
-   ![react](Images/react.png)                ![typescript](Images/typescript.png)
+![react](Images/react.png) ![typescript](Images/typescript.png)
 
 
 ## Projects
