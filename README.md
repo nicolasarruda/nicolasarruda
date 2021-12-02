@@ -25,7 +25,7 @@ domestic violence. The project's repository is "AppGm".
 
 ### Technologies
 
-![java](Images/java.png)  ![spring](Images/spring.png) ![junit](Images/junit.png)  
+![java](Images/java.png) ![spring](Images/spring.png) ![junit](Images/junit.png)  
 
 ![sqlserver](Images/sqlserver.png) ![mysql](Images/mysql.png) ![postgresql](Images/postgresql.png)
 
