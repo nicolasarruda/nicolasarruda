@@ -48,7 +48,7 @@ App in netlify: https://dsvendas-nicolas.netlify.app/
 
 __Project fatec-empresa-jr-backend:__
 
-Link: https://github.com/nicolasarruda/fatec-empresa-jr-backend
+Link:  <a href="https://github.com/nicolasarruda/fatec-empresa-jr-backend">https://github.com/nicolasarruda/fatec-empresa-jr-backend</a>
 
 __Project workshop-spring-boot-mondgodb:__
 
