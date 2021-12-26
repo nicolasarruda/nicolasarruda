@@ -69,5 +69,5 @@ Link: https://github.com/nicolasarruda/AppGm
 - Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br
 - Site: https://nicolasarruda.github.io/nicolasarruda/
 
-- email : nlarruda@hotmail.com
-- telephone: +55 (11) 95974-5673
+- E-mail : nlarruda@hotmail.com
+- Telephone: +55 (11) 95974-5673
