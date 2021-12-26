@@ -60,7 +60,7 @@ Link: <a href="https://github.com/nicolasarruda/AutomatedTests">https://github.c
 
 __Project AppGm:__
 
-Link: https://github.com/nicolasarruda/AppGm
+Link: <a href="https://github.com/nicolasarruda/AppGm">https://github.com/nicolasarruda/AppGm></a>
 
 ## 📫 How to reach me 
 
