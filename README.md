@@ -38,13 +38,13 @@ domestic violence. The project's repository is "AppGm".
 
 __Project dscatalog:__
 
-Link: https://github.com/nicolasarruda/dscatalog-nicolas
+Link: <a href="https://github.com/nicolasarruda/dscatalog-nicolas">https://github.com/nicolasarruda/dscatalog-nicolas</a>
 
 __Project sds4:__
 
-Link: https://github.com/nicolasarruda/project-sds4
+Link: <a href="https://github.com/nicolasarruda/project-sds4">https://github.com/nicolasarruda/project-sds4</a>
 
-App in netlify: https://dsvendas-nicolas.netlify.app/
+App in netlify: <a href="https://dsvendas-nicolas.netlify.app/">https://dsvendas-nicolas.netlify.app/</a>
 
 __Project fatec-empresa-jr-backend:__
 
@@ -52,11 +52,11 @@ Link:  <a href="https://github.com/nicolasarruda/fatec-empresa-jr-backend">https
 
 __Project workshop-spring-boot-mondgodb:__
 
-Link: https://github.com/nicolasarruda/workshop-spring-boot-mongodb
+Link: <a href="https://github.com/nicolasarruda/workshop-spring-boot-mongodb">https://github.com/nicolasarruda/workshop-spring-boot-mongodb</a>
 
 __Project AutomatedTests:__
 
-Link: https://github.com/nicolasarruda/AutomatedTests
+Link: <a href="https://github.com/nicolasarruda/AutomatedTests">https://github.com/nicolasarruda/AutomatedTests</a>
 
 __Project AppGm:__
 
@@ -64,10 +64,11 @@ Link: https://github.com/nicolasarruda/AppGm
 
 ## 📫 How to reach me 
 
-- Github: https://github.com/nicolasarruda <img align="right" src="https://github.com/nicolasarruda/nicolasarruda/blob/master/Images/how-to-find-me.png">
-- Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
-- Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br        
-- Site: https://nicolasarruda.github.io/nicolasarruda/
+- Github: <a href="https://github.com/nicolasarruda">https://github.com/nicolasarruda</a> 
+<a href="https://github.com/nicolasarruda/nicolasarruda/blob/master/Images/how-to-find-me.png"><img align="right" src="https://github.com/nicolasarruda/nicolasarruda/blob/master/Images/how-to-find-me.png"></a>
+- Linkedin: <a href="https://www.linkedin.com/in/nicolasluchinidearruda/">https://www.linkedin.com/in/nicolasluchinidearruda/</a>
+- Instagram: <a href="https://www.instagram.com/nicolas_luchini/?hl=pt-br">https://www.instagram.com/nicolas_luchini/?hl=pt-br</a>        
+- Site: <a href="https://nicolasarruda.github.io/nicolasarruda/">https://nicolasarruda.github.io/nicolasarruda/</a>
 
 - E-mail : nlarruda@hotmail.com
 - Telephone: +55 (11) 95974-5673
