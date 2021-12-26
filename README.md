@@ -64,7 +64,7 @@ Link: https://github.com/nicolasarruda/AppGm
 
 ## 📫 How to reach me 
 
-- Github: https://github.com/nicolasarruda ![qr-code](Images/how-to-find-me.png)
+- Github: https://github.com/nicolasarruda ![qr-code](Images/how-to-find-me.png#right)
 - Linkedin: https://www.linkedin.com/in/nicolasluchinidearruda/
 - Instagram: https://www.instagram.com/nicolas_luchini/?hl=pt-br        
 - Site: https://nicolasarruda.github.io/nicolasarruda/
