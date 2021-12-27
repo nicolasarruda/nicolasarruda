@@ -65,7 +65,7 @@ Link: <a href="https://github.com/nicolasarruda/AppGm">https://github.com/nicola
 ## 📫 How to reach me 
 
 - Github: <a href="https://github.com/nicolasarruda">https://github.com/nicolasarruda</a> 
-<a href="http://qrco.de/bcerxJ?trackSharing=1">![image alt >](Images/how-to-find-me.png)</a>
+ <a href="http://qrco.de/bcerxJ?trackSharing=1"> ![qr-code](Images/how-to-find-me.png)</a>
 - Linkedin: <a href="https://www.linkedin.com/in/nicolasluchinidearruda/">https://www.linkedin.com/in/nicolasluchinidearruda/</a>
 - Instagram: <a href="https://www.instagram.com/nicolas_luchini/?hl=pt-br">https://www.instagram.com/nicolas_luchini/?hl=pt-br</a>        
 - Site: <a href="https://nicolasarruda.github.io/nicolasarruda/">https://nicolasarruda.github.io/nicolasarruda/</a>
