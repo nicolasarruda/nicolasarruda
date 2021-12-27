@@ -13,3 +13,51 @@ image[alt$="><"] {
   margin: auto;
   float: none!important;
 }
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
+image[alt=qr-code] {
+  float: right;
+}
+
+image[alt=qr-code] {
+  float: left;
+}
+
+image[alt=qr-code] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
+img[alt=qr-code] {
+  float: right;
+}
+
+img[alt=qr-code] {
+  float: left;
+}
+
+img[alt=qr-code] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
