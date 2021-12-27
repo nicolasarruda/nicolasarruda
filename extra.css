@@ -93,3 +93,8 @@ img[alt=image] {
   margin: auto;
   float: none!important;
 }
+
+.floatright {
+    float: right;
+    /* etc. */
+}
