@@ -61,3 +61,35 @@ img[alt=qr-code] {
   margin: auto;
   float: none!important;
 }
+
+image[alt=image] {
+  float: right;
+}
+
+image[alt=image] {
+  float: left;
+}
+
+image[alt=image] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
+img[alt=image] {
+  float: right;
+}
+
+img[alt=image] {
+  float: left;
+}
+
+img[alt=image] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
