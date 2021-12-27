@@ -1,10 +1,15 @@
-img[src*='#left'] {
-    float: left;
+image[alt$=">"] {
+  float: right;
 }
-img[src*='#right'] {
-    float: right;
+
+image[alt$="<"] {
+  float: left;
 }
-img[src*='#center'] {
-    display: block;
-    margin: auto;
+
+image[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
 }
