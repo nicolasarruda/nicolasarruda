@@ -67,7 +67,7 @@ Link: <a href="https://github.com/nicolasarruda/AppGm">https://github.com/nicola
 
 <a href="http://qrco.de/bcerxJ?trackSharing=1">
  <div align="right">
- <figure><img align="right" src="/Images/how-to-find-me.png" alt=""></figure>
+ <figure><img align="right" src="/Images/portfolio.png" alt=""></figure>
  </div>
 </a>
 
