@@ -2,22 +2,11 @@
 
 ## Resume
 
-I'm currently studying at Fatec Jundiai and working at company Fatec Jr as java back-end programmer
-developer. I like to learnnew subjects as new tools: spring, react, logic and other languages, lambda,
-structure data, relational and non-relational database, big data design paterns as well. These can be
-showed in my projects, for example, "fatec-empresa-jr-backend", "dscatalog", "project-sds4", 
-"project-sds5", "workshop-spring-boot-mondgodb". 
+I’m currently between jobs in back-end Java. I worked as a java back-end programmer developer and freelance developer. I like to learn new subjects as new tools: spring, react, logic and other languages, lambda, structure data, relational and non-relational databases, big data, and design patterns. These can be shown in my projects, for example, “fatec-Empresa-jr-backend”, “dscatalog”, “project-sds4”, “project-sds5”, and “workshop-spring-boot-MongoDB”.
 
-Also, there are others subject that I learnt: 
-unit automated tests which can be showed in "AutomatedTests" and, as result of this, 
-I'm deeping to learn unit automated tests in controller, services and repositories. Also, integration tests,
-integration tests & web.
+Also, there are other subjects that I learned: unit automated tests on controller, service, and repository, which can be shown in “AutomatedTests” and because of it, I’m keeping to learn integration tests, integration tests & web.
 
-But, there is one project in my college which does a big impact in society: Marias. In this project,
-I work at java developer in the Android Studio and documentation as well. I learn code better in java 
-and do diagram class as well. However, the important is I learn that with our codes, we can do the 
-best all of society, because "Marias" is a app to help the law about the women's insurance against 
-domestic violence. The project's repository is "AppGm".
+Objective: I am looking for a remote in software development back-end developer Java, Spring, and React.
 
 ## Skills
 
