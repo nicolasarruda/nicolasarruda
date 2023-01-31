@@ -2,7 +2,7 @@
 
 ## Resume
 
-I’m currently between jobs in back-end Java. I worked as a java back-end programmer developer and freelance developer. I like to learn new subjects as new tools: spring, react, logic and other languages, lambda, structure data, relational and non-relational databases, big data, and design patterns. These can be shown in my projects, for example, “fatec-Empresa-jr-backend”, “dscatalog”, “project-sds4”, “project-sds5”, and “workshop-spring-boot-MongoDB”.
+I’m currently between jobs in full-stack React and Spring, with focus on DevOps. I worked as a java back-end programmer developer and freelance developer. I like to learn new subjects as new tools: spring, react, react-native, nodejs, wordpress, logic and other languages, lambda, structure data, relational and non-relational databases, big data, and design patterns. These can be shown in my projects, for example, “fatec-Empresa-jr-backend”, “dscatalog”, “project-sds4”, “project-sds5”, and “workshop-spring-boot-MongoDB”.
 
 Also, there are other subjects that I learned: unit automated tests on controller, service, and repository, which can be shown in “AutomatedTests” and because of it, I’m keeping to learn integration tests, integration tests & web.
 
@@ -27,9 +27,19 @@ Objective: I am looking for a remote in software development back-end developer 
 
 __Project dscatalog:__
 
+Description: 
+
 Link: <a href="https://github.com/nicolasarruda/dscatalog-nicolas">https://github.com/nicolasarruda/dscatalog-nicolas</a>
 
+__Project dsmeta:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/dsmeta">https://github.com/nicolasarruda/dsmeta</a>
+
 __Project sds4:__
+
+Description:
 
 Link: <a href="https://github.com/nicolasarruda/project-sds4">https://github.com/nicolasarruda/project-sds4</a>
 
@@ -37,19 +47,57 @@ App in netlify: <a href="https://dsvendas-nicolas.netlify.app/">https://dsvendas
 
 __Project fatec-empresa-jr-backend:__
 
+Description:
+
 Link:  <a href="https://github.com/nicolasarruda/fatec-empresa-jr-backend">https://github.com/nicolasarruda/fatec-empresa-jr-backend</a>
 
 __Project workshop-spring-boot-mondgodb:__
 
+Description:
+
 Link: <a href="https://github.com/nicolasarruda/workshop-spring-boot-mongodb">https://github.com/nicolasarruda/workshop-spring-boot-mongodb</a>
 
-__Project AutomatedTests:__
+__Project AutomatedTests JUNIT:__
+
+Description:
 
 Link: <a href="https://github.com/nicolasarruda/AutomatedTests">https://github.com/nicolasarruda/AutomatedTests</a>
 
+__Project AutomatedTests JEST:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/dscatalog-automated-tests-JEST">https://github.com/nicolasarruda/dscatalog-automated-tests-JEST</a>
+
 __Project AppGm:__
 
+Description:
+
 Link: <a href="https://github.com/nicolasarruda/AppGm">https://github.com/nicolasarruda/AppGm</a>
+
+__Project Cars-Catalog:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/cars-catalog">https://github.com/nicolasarruda/cars-catalog</a>
+
+__Project Movieflix:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/movieflix">https://github.com/nicolasarruda/movieflix</a>
+
+__Project Dashboard:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/dashboard">https://github.com/nicolasarruda/dashboard</a>
+
+__Project Jenkins:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/jenkins">https://github.com/nicolasarruda/jenkins</a>
 
 ## 📫 How to reach me 
 
