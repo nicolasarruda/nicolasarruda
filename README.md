@@ -93,6 +93,18 @@ Description:
 
 Link: <a href="https://github.com/nicolasarruda/dashboard">https://github.com/nicolasarruda/dashboard</a>
 
+__Project Dashboard 2:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/dashboard-second-model">https://github.com/nicolasarruda/dashboard-second-model</a>
+
+__Project Terraform:__
+
+Description:
+
+Link: <a href="https://github.com/nicolasarruda/terraform">https://github.com/nicolasarruda/terraform</a>
+
 __Project Jenkins:__
 
 Description:
