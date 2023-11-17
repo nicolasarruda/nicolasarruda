@@ -2,11 +2,15 @@
 
 ## Resume
 
-I’m currently between jobs in full-stack React and Spring, with focus on DevOps. I worked as a java back-end programmer developer and freelance developer. I like to learn new subjects as new tools: spring, react, react-native, nodejs, wordpress, logic and other languages, lambda, structure data, relational and non-relational databases, big data, and design patterns. These can be shown in my projects, for example, “fatec-Empresa-jr-backend”, “dscatalog”, “project-sds4”, “project-sds5”, and “workshop-spring-boot-MongoDB”.
+Currently, I am a freelance Java and React developer with a solid background in Java back-end programming and React front-end development. My journey in programming is more than just a career; it is a passion that I have cultivated over the years. I am always motivated by the constant pursuit of knowledge and the exploration of new tools and technologies.
 
-Also, there are other subjects that I learned: unit automated tests on controller, service, and repository, which can be shown in “AutomatedTests” and because of it, I’m keeping to learn integration tests, integration tests & web.
+My learning journey is ongoing, and I am always eager to acquire new knowledge and skills, ranging from technologies such as Spring, React, DevOps, automated testing, and databases to design patterns. This thirst for learning is reflected in my projects, which showcase my skills in action and can be viewed in my portfolio.
 
-Objective: I am looking for a remote in software development back-end developer Java, Spring, and React.
+In addition to being a passionate developer, I value collaboration and communication, believing that programming is enriched when shared and discussed with other professionals. I am always willing to tackle complex challenges and seek innovative solutions. My programming journey is a constant pursuit of excellence and creating a positive impact through technology.
+
+If you share this passion and would like to connect to discuss collaboration opportunities or share ideas, feel free to reach out. I am looking forward to connecting with colleagues who share a passion for programming and continuous improvement.
+
+I am ready to take on exciting challenges in the software development field, where I can apply my passion and experience in Java, Spring, and React. I am seeking remote work opportunities that allow me to continue my relentless pursuit of knowledge, collaborate with talented teams, and contribute to innovative projects that make a difference. My comprehensive skills include Java, Spring Framework, Spring Boot, React, and various other technologies such as JUnit, HTML, CSS, JavaScript, TypeScript, Git, SQL (SQL Server, MySQL, PostgreSQL), PL/SQL, Maven, Docker, AWS (EC2 and RDS), and much more. I am available for discussions and partnerships with the goal of achieving excellence in programming and creating a positive impact through technology.
 
 ## Skills
 
@@ -112,8 +116,6 @@ Description:
 Link: <a href="https://github.com/nicolasarruda/jenkins">https://github.com/nicolasarruda/jenkins</a>
 
 ## 📫 How to reach me 
-
-
 
  <div align="right">
  <figure><img align="right" src="/Images/portfolio.png" alt=""></figure>
