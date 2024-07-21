@@ -127,5 +127,5 @@ Link: <a href="https://github.com/nicolasarruda/jenkins">https://github.com/nico
 - Instagram: <a href="https://www.instagram.com/nicolas_luchini/?hl=pt-br">https://www.instagram.com/nicolas_luchini/?hl=pt-br</a>        
 - Site: <a href="https://nicolasarruda.github.io/nicolasarruda/">https://nicolasarruda.github.io/nicolasarruda/</a>
 
-- E-mail : nlarruda@hotmail.com
+- E-mail : nicolas.luchini.profissao@gmail.com
 - Telephone: +55 (11) 95974-5673
