@@ -128,4 +128,3 @@ Link: <a href="https://github.com/nicolasarruda/jenkins">https://github.com/nico
 - Site: <a href="https://nicolasarruda.github.io/nicolasarruda/">https://nicolasarruda.github.io/nicolasarruda/</a>
 
 - E-mail : nicolas.luchini.profissao@gmail.com
-- Telephone: +55 (11) 95974-5673
